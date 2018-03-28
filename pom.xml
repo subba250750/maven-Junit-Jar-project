@@ -2,6 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>FinalILP1</groupId>
   <artifactId>FinalILP1</artifactId>
+  <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
   <build>
     <sourceDirectory>HelloWorld/main</sourceDirectory>
