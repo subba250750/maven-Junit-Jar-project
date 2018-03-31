@@ -10,7 +10,7 @@ public class EmployeeServiceeTest {
 	public void testGetEmployeeName() {
 		
 		EmployeeService es=new EmployeeService();
-		assertEquals("","Avinash",new EmployeeService().getEmployeeName(1234));
+		assertEquals("","Patel",new EmployeeService().getEmployeeName(1234));
 	}
 	
 	@Test

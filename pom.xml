@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>FinalILP1</groupId>
   <artifactId>FinalILP1</artifactId>
-  <packaging>war</packaging>
+  <packaging>jar</packaging>
   <version>0.0.1-SNAPSHOT</version>
   <build>
     <sourceDirectory>HelloWorld/main</sourceDirectory>
@@ -22,7 +22,7 @@
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
-      <version>3.8.1</version>
+      <version>4.10</version>
       <scope>test</scope>
     </dependency>
   </dependencies>
